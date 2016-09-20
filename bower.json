@@ -1,0 +1,17 @@
+{
+  "name": "primetables",
+  "description": "Prime Tables Interview Sample",
+  "authors": [
+    "Robert Simmons <robsimm@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
