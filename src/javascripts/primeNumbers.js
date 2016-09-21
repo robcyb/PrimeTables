@@ -14,3 +14,7 @@ function IsPrimeNumber(number) {
   return true;
 
 }
+
+function GeneratePrimes(length) {
+
+}
