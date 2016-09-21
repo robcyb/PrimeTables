@@ -1,7 +1,5 @@
-"use strict";
-
-var Primes = function () {
-  
-};
-
-window.primeNumbers = Primes;
+function IsPrimeNumber(number) {
+  if (number <= 0) {
+    return false;
+  }
+}
