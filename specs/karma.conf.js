@@ -4,7 +4,7 @@ module.exports = function (config) {
     frameworks: ['jasmine'],
     browsers: ["Chrome"],
     files: [
-      'app/javascripts/**/*.js',
+      'src/**/*.js',
       'specs/**/*.spec.js'
     ],
   });
